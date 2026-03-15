@@ -1,0 +1,17 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+#product-card-section-section::-webkit-scrollbar {
+  display: none; /* Chrome, Edge, Safari */
+}
+
+#product-card-section-section {
+  scrollbar-width: none; /* Firefox */
+}
+
+.active{
+  background: green;
+  color: #FFFFfF;
+}
+
