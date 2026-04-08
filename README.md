@@ -1,4 +1,4 @@
-# Green Earth
+# Trees
 
 ## 🌴 API Endpoints
 
